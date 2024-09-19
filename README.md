@@ -10,3 +10,7 @@ as well as a summary file that contains the total mentions across all accounts.
 - Stores the results for each account in a separate text file in the `output` directory.
 - Generates a summary file showing the total number of mentions across all accounts in the last specified interval.
 
+
+
+https://github.com/user-attachments/assets/73e22faa-7fe6-43ed-9d78-80383d5d745e
+
